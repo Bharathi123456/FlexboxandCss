@@ -1,0 +1,21 @@
+h1 { 
+ color: green;
+} 
+*{
+border: solid;
+}
+.header{
+    background-color :skyblue;
+    display: flex;
+    justify-content: space-between;
+}
+.grade{
+    background-color: royalblue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+p,h2{
+    text-align: center;
+}
